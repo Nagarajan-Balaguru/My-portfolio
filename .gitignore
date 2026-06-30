@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# Resume - keep private
+public/resume.pdf
+
+# Environment secrets
+.env
+.env.local
