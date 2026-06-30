@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Apexon",
+    "companyLogoUrl": "/companies/apexon.png",
+    "role": "Software Engineer",
+    "startDate": "2024-09-01",
+    "endDate": null,
+    "current": true,
+    "location": "Remote, Chennai, Tamil Nadu",
+    "highlights": [
+      "Built reactive REST APIs using Spring WebFlux handling 10,000+ requests/second with sub-100ms latency",
+      "Led monolith-to-microservices migration with Spring Boot, reducing deployment time by 40%",
+      "Optimized database queries by 60% through strategic indexing and query tuning",
+      "Implemented Redis caching strategy, reducing database load by 70%",
+      "Set up monitoring with AWS CloudWatch for real-time production debugging",
+      "Automated CI/CD pipelines with Jenkins and Docker, reducing release cycles from 2 weeks to 2 days",
+      "Used Java Streams and Lambdas to reduce code complexity by 25%"
+    ],
+    "order": 1
+  },
+  {
+    "company": "Synchrony / SASS TECH",
+    "companyLogoUrl": "/companies/synchrony.png",
+    "role": "Software Developer",
+    "startDate": "2023-01-01",
+    "endDate": "2024-10-01",
+    "current": false,
+    "location": "Remote",
+    "highlights": [
+      "Built end-to-end provider center application with React.js and Spring Boot, improving team productivity by 35%",
+      "Built dynamic UIs with React Hooks and React Router, improving frontend performance by 30%",
+      "Designed and integrated RESTful APIs with proper error handling and validation",
+      "Optimized database queries and caching, improving API performance by 45%",
+      "Led full-stack development with Redux, Spring MVC, Jenkins, and Docker",
+      "Collaborated with cross-functional teams following Agile/Scrum practices"
+    ],
+    "order": 2
+  },
+  {
+    "company": "Synchrony",
+    "companyLogoUrl": "/companies/synchrony.png",
+    "role": "Full-Stack Developer Intern",
+    "startDate": "2022-06-01",
+    "endDate": "2023-01-01",
+    "current": false,
+    "location": "Remote",
+    "highlights": [
+      "Developed web-based project management system using Java, Spring Boot, and React.js",
+      "Handled backend, frontend, API integration, and database design end-to-end",
+      "Applied Agile methodologies for timely delivery and production-ready code"
+    ],
+    "order": 3
+  }
+] 

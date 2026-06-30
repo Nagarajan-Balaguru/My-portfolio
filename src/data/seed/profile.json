@@ -1,0 +1,13 @@
+{
+  "name": "Nagarajan Balaguru",
+  "tagline": "Software Engineer | Full Stack Developer",
+  "bio": "Results-driven Software Engineer with 3+ years of full-stack development expertise. Specialized in building high-performance, reactive backend systems using Java, Spring Boot, and Spring WebFlux. Proficient in designing scalable RESTful APIs, implementing functional programming patterns, and creating dynamic frontend experiences with React.js.",
+  "avatarUrl": "/avatar.jpg",
+  "resumeUrl": "/resume.pdf",
+  "location": "Chennai, Tamil Nadu, India",
+  "email": "nnnagarajan16@gmail.com",
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/in/nagarajan-balaguru",
+    "github": "https://github.com/nagarajan-balaguru"
+  }
+}

@@ -1,0 +1,19 @@
+[
+  { "name": "Java", "icon": "java", "category": "Backend", "proficiency": 92 },
+  { "name": "Spring Boot", "icon": "spring", "category": "Backend", "proficiency": 90 },
+  { "name": "Spring WebFlux", "icon": "spring", "category": "Backend", "proficiency": 88 },
+  { "name": "Spring Cloud", "icon": "spring", "category": "Backend", "proficiency": 82 },
+  { "name": "Project Reactor", "icon": "reactor", "category": "Backend", "proficiency": 85 },
+  { "name": "RESTful APIs", "icon": "api", "category": "Backend", "proficiency": 92 },
+  { "name": "React.js", "icon": "react", "category": "Frontend", "proficiency": 88 },
+  { "name": "Redux", "icon": "redux", "category": "Frontend", "proficiency": 82 },
+  { "name": "JavaScript ES6+", "icon": "javascript", "category": "Frontend", "proficiency": 88 },
+  { "name": "HTML5", "icon": "html5", "category": "Frontend", "proficiency": 90 },
+  { "name": "CSS3", "icon": "css3", "category": "Frontend", "proficiency": 87 },
+  { "name": "MySQL", "icon": "mysql", "category": "Database", "proficiency": 83 },
+  { "name": "Redis", "icon": "redis", "category": "Database", "proficiency": 80 },
+  { "name": "Docker", "icon": "docker", "category": "Tools", "proficiency": 82 },
+  { "name": "Jenkins", "icon": "jenkins", "category": "Tools", "proficiency": 80 },
+  { "name": "Git", "icon": "git", "category": "Tools", "proficiency": 88 },
+  { "name": "AWS CloudWatch", "icon": "aws", "category": "Tools", "proficiency": 75 }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reactive Microservices Platform",
+    "description": "Led monolith-to-microservices migration using Spring Boot and Spring WebFlux. Handles 10,000+ requests/second with sub-100ms latency. Includes Redis caching, CI/CD with Jenkins and Docker.",
+    "techStack": ["Java", "Spring Boot", "Spring WebFlux", "Redis", "Docker", "Jenkins", "AWS CloudWatch"],
+    "githubUrl": "",
+    "liveUrl": "",
+    "thumbnail": "",
+    "featured": true,
+    "order": 1
+  },
+  {
+    "title": "Provider Center Application",
+    "description": "End-to-end full-stack provider center built with React.js and Spring Boot at Synchrony/SASS TECH. Improved team productivity by 35% and frontend performance by 30% using React Hooks and Redux.",
+    "techStack": ["React.js", "Redux", "Spring Boot", "Spring MVC", "Jenkins", "Docker"],
+    "githubUrl": "",
+    "liveUrl": "",
+    "thumbnail": "",
+    "featured": true,
+    "order": 2
+  },
+  {
+    "title": "Project Management System",
+    "description": "Web-based project management system developed during internship at Synchrony. Handled full-stack development including backend, frontend, API integration, and database design end-to-end.",
+    "techStack": ["Java", "Spring Boot", "React.js", "MySQL", "REST APIs"],
+    "githubUrl": "",
+    "liveUrl": "",
+    "thumbnail": "",
+    "featured": false,
+    "order": 3
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "Personal portfolio built with React 19, Spring Boot 3, and MongoDB. Features reactive REST APIs with Spring WebFlux, smooth animations with Framer Motion, and a contact form.",
+    "techStack": ["React.js", "Spring Boot", "Spring WebFlux", "MongoDB", "Tailwind CSS"],
+    "githubUrl": "",
+    "liveUrl": "",
+    "thumbnail": "",
+    "featured": true,
+    "order": 4
+  }
+]
